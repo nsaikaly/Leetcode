@@ -18,3 +18,5 @@ A small collection of study notes for technical interview prep, covering data st
 4. Practice the linked problems without looking back.
 
 That's it — no setup, no installation. It's just notes.
+
+Tooling: `./bootstrap.sh` only checks the ~/dev-rules setup (mise); this repo pins no runtime.
