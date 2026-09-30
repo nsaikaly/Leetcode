@@ -1,0 +1,8 @@
+# Runtime pins for this repo. This file is the single source of truth for
+# runtime versions: `mise install` reads it, and `./bootstrap.sh` runs that.
+#
+# Never change a pin to make a build pass without saying so and why.
+
+[tools]
+# None: this repo is Markdown study notes with nothing to build or run.
+# Add a pin here (e.g. python = "3.13") before running any code from it.
